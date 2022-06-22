@@ -1,0 +1,22 @@
+# 2ND PAGE
+
+Bienvenue sur le site Gemini 
+
+Page de test pour le serveur gemini - BERENGUER / GROSPELLIER / POGGIOLI /
+
+
+=> gemini://www.underworld.fr/www.gmi Liste des Services
+=> gemini://www.underworld.fr/infra.gmi infrastructure
+=> gemini://www.underworld.fr/blog/blog.gmi Memos
+=> gemini://www.underworld.fr/contact.gmi Contact
+=> gemini://www.underworld.fr/donate.gmi Donate
+=> gemini://www.underworld.fr/cgu.gmi CGU
+
+## Liste des Services:
+
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet arcu justo. Donec porttitor, libero nec interdum semper, justo arcu tristique neque, at venenatis leo enim vitae dolor. Nulla pharetra magna vitae semper lobortis. In eu odio eu metus dictum dictum ut condimentum erat. Phasellus interdum mi urna, non volutpat odio consequat at. Nulla tempus viverra metus vitae tristique. Phasellus a justo viverra nibh laoreet pretium. Donec volutpat accumsan orci, sit amet pretium ex. Proin nisi nunc, euismod nec est ac, tincidunt semper erat. Nullam ac augue nec arcu blandit porttitor euismod in metus. Sed non interdum ipsum. Donec auctor dolor non varius imperdiet.
+
+Integer porta ex nec tellus dictum, in porta urna tincidunt. Cras maximus viverra tortor, consequat condimentum nisi pretium non. Phasellus sollicitudin sagittis mollis. Sed mollis nibh ut ex laoreet mollis. Pellentesque quis neque lacinia, commodo lectus tristique, consectetur leo. Praesent placerat augue nec luctus mollis. Nullam mi augue, condimentum condimentum aliquam at, blandit at diam. Nam lacinia augue a rhoncus facilisis. Etiam ac justo ac turpis maximus egestas et non libero. Quisque in dignissim nulla. Nunc fringilla risus massa, ac pulvinar libero ultricies vitae. Donec fringilla tincidunt sagittis. Vestibulum in tincidunt ipsum, quis iaculis leo. Donec nec nulla neque. Phasellus ac ligula ut lectus mattis laoreet. 
+
+
+

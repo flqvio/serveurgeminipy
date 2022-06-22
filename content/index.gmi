@@ -1,0 +1,5 @@
+# This is Sample Gemini page
+## With header 1 and header 2
+And a short paragraph like this.
+=> /index.gmi Link to the same page
+=> /tkt.gmi 2E lien bg

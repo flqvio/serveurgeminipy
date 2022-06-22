@@ -1,0 +1,13 @@
+BIND: '0.0.0.0'
+PORT: 1965
+AUTO_INDEX: true
+DOCUMENT_ROOT: /home/flavio/gemini/content
+INDEX_FILE: index.gmi
+MIME_TYPES:
+  'text/gemini':
+    - .gmi
+    - .gemini
+SSL:
+  CA: /home/flavio/gemini/certificate/fullchain.pem
+  CERT: /home/flavio/gemini/certificate/cert.pem
+  PRIVATE_KEY: /home/flavio/gemini/certificate/key.pem
